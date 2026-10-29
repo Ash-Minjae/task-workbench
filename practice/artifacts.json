@@ -1,0 +1,6 @@
+{
+  "artifacts": [
+    {"path": "candidate.csv", "kind": "csv", "columns": ["order_id", "region", "amount", "status"], "min_rows": 1},
+    {"path": "summary.json", "kind": "json", "types": {"assumptions": "array", "checks": "object", "limitations": "array"}}
+  ]
+}

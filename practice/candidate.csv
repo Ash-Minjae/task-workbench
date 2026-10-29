@@ -1,0 +1,5 @@
+order_id,region,amount,status
+A01,East,100.10,paid
+A02,East,200.20,paid
+A04,West,-50.00,refund
+A06,"North, Zone",25.00,paid
